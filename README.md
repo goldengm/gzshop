@@ -1,17 +1,7 @@
-Yii2 advanced online shop example
+Yii2 advanced online shop
 Cart is fixed, adminpanel is customized, site is updated
 This project use shopping cart , datepicker, wysiwyg editor , file input extensions.
 View demo (DEMO NOT UPDATED BUT CODE IS CHANGED!!!)
-adminpanel:
-http://shopdemo2.epizy.com/demoshop2/backend/web/index.php/site/login
-
-login : admin
-password : avs03021998
-
-site:
-http://shopdemo2.epizy.com/demoshop2/frontend/web/
-
-
 
 installing:
  - clone github repository;
